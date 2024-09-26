@@ -2,6 +2,10 @@
 ## Project Overview
 This project aims to apply **Business Intelligence** (BI) techniques to analyze the performance and efficiency of YouTube channels on a global scale. By leveraging data from the **Global YouTube Statistics 2023** dataset, this project explores key performance indicators (KPIs) such as subscriber count, video views, upload frequency, video length, category, and country of origin. Our goal is to identify trends, uncover factors influencing channel success, and provide actionable insights for content creators to optimize channel performance.
 
+<p align="center">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/youtube%20logo.png" alt="Youtube logo">
+</p>
+
 **Course**: Business Intelligence
 Institution: University of Economics Ho Chi Minh City (UEH) - School of Technology and Design
 Instructor: Phạm Thị Thanh Tâm, MSc
@@ -54,6 +58,10 @@ Created dimension and fact tables to store structured information about:
 - Types of YouTubers (e.g., Entertainment, Music, People & Blogs)
 - Video views and rankings
 
+<p align="center">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/BI_Youtube_Data%20Modeling.png" alt="Youtube Data Modeling">
+</p>  
+
 Implemented transformations to align the data structure with Power BI's analytical capabilities.
 
 ### 3. Analysis:
@@ -63,6 +71,9 @@ We conducted the following analyses:
 - Regional and Country-based Analysis: Explored how geographical factors influence channel performance, with the U.S. and India leading in YouTuber presence.
 - Category and Subcategory Performance: Investigated performance differences across categories such as Entertainment, Music, and People & Blogs, with Entertainment channels having the highest number of top performers.
 - YouTuber Types and Awards: Analyzed how YouTube Creator Awards (e.g., Silver, Gold, Diamond Play Buttons) correlate with subscriber counts and views.
+
+[View Full Report](https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/BI_Youtube_Dashboard_Reports.pdf)
+
 
 ## Key Insights
 - **Growth Trends**: YouTube channels have shown consistent growth over the years, but subscriber trends have plateaued for top-performing channels in recent years, likely due to increased competition and changing viewer preferences.
