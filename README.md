@@ -72,6 +72,11 @@ We conducted the following analyses:
 - Category and Subcategory Performance: Investigated performance differences across categories such as Entertainment, Music, and People & Blogs, with Entertainment channels having the highest number of top performers.
 - YouTuber Types and Awards: Analyzed how YouTube Creator Awards (e.g., Silver, Gold, Diamond Play Buttons) correlate with subscriber counts and views.
 
+<p align="center">
+  <a href="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/BI_Youtube_Dashboard_Reports.pdf">View Full Report (PDF)</a>
+</p>
+
+
 [View Full Report](https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/BI_Youtube_Dashboard_Reports.pdf)
 
 
