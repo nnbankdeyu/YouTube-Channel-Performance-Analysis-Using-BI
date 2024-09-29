@@ -34,7 +34,19 @@ The main objective of this project is to analyze YouTube channel performance by 
 We aim to provide insights to help content creators understand how these factors affect their channel's reach, visibility, and engagement, and suggest strategies to enhance their performance in a competitive digital environment.
 
 ## Business Problem and Dataset
-With over 2.5 billion users worldwide, YouTube is a leading platform for content creators. However, creators face increasing challenges in standing out due to rising competition, algorithm changes, and shifting audience preferences. The project investigates the trends that affect YouTube channel performance, utilizing data from Kaggle's Global YouTube Statistics 2023 dataset. This dataset contains key information on top-performing YouTube channels, including:
+With over 2.5 billion users worldwide, YouTube is a leading platform for content creators.
+
+<p align="center">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Business%20problem_01.png" alt="Youtube Business problem">
+</p>  
+
+However, creators face increasing challenges in standing out due to rising competition, algorithm changes, and shifting audience preferences.
+
+<p align="center">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Business%20problem_02.png" alt="Youtube Business problem">
+</p> 
+
+The project investigates the trends that affect YouTube channel performance, utilizing data from Kaggle's Global YouTube Statistics 2023 dataset. This dataset contains key information on top-performing YouTube channels, including:
 - Number of subscribers
 - Total video views
 - Monthly and yearly earnings
