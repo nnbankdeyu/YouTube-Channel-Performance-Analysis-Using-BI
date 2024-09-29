@@ -77,38 +77,38 @@ We conducted the following analyses:
 - Overview of YouTube Channel Performance: Analyzed general performance metrics of channels by subscriber count, video views, and upload frequency.
 
 <p align="center">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Dashboard%20overview.png" alt="Youtube Dashboard overview">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Dashboard%20overview.png" alt="Youtube Dashboard overview">
 </p> 
   
 - Yearly and Monthly Performance: Tracked the performance trends of channels over time, identifying seasonal patterns and yearly growth.
 
 <p align="center">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Year%20report.png" alt="Youtube Year report">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Month%20report.png" alt="Youtube Month report">  
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Year%20report.png" alt="Youtube Year report">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Month%20report.png" alt="Youtube Month report">  
 </p> 
 
 - Regional and Country-based Analysis: Explored how geographical factors influence channel performance, with the U.S. and India leading in YouTuber presence.
 
 <p align="center">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Region%20report.png" alt="Youtube Region report">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Country%20report.png" alt="Youtube Country report">  
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Regiont%20report.png" alt="Youtube Region report">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Country%20report.png" alt="Youtube Country report">  
 </p> 
 
 - Category and Subcategory Performance: Investigated performance differences across categories such as Entertainment, Music, and People & Blogs, with Entertainment channels having the highest number of top performers.
 
 <p align="center">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_Category%20report.png" alt="Youtube Categoty report">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_SubCategory%20report.png" alt="Youtube SubCategory report">  
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Category%20report.png" alt="Youtube Category report">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_SubCategory%20report.png" alt="Youtube SubCategory report">  
 </p> 
   
 - YouTuber Types and Awards: Analyzed how YouTube Creator Awards (e.g., Silver, Gold, Diamond Play Buttons) correlate with subscriber counts and views.
 
 <p align="center">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_TypeofYoutuber%20report.png" alt="Youtube TypeofYoutuber report">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Youtube_YoutubeCreatorAwards%20report.png" alt="Youtube YoutubeCreatorAwards report">  
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_TypeofYoutuber%20report.png" alt="Youtube TypeofYoutuber report">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_YoutubeCreatorAwards%20report.png" alt="Youtube YoutubeCreatorAwards report">  
 </p> 
 
-Link to Full Dashboard and Reports: [here](https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/BI_Youtube_Dashboard_Reports.pdf)
+Link to Full Dashboard and Reports: [here](https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/BI_Youtube_Dashboard_Reports.pdf)
 
 
 ## Key Insights
