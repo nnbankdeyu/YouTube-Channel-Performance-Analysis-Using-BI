@@ -102,7 +102,7 @@ We conducted the following analyses:
 - Regional and Country-based Analysis: Explored how geographical factors influence channel performance, with the U.S. and India leading in YouTuber presence.
 
 <p align="center">
-  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Regiont%20report.png" alt="Youtube Region report">
+  <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Region%20report.png" alt="Youtube Region report">
   <img src="https://github.com/nnbankdeyu/YouTube-Channel-Performance-Analysis-Using-BI/blob/main/Dashboard%20and%20Reports/Youtube_Country%20report.png" alt="Youtube Country report">  
 </p> 
 
